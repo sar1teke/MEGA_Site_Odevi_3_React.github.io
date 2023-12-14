@@ -10,7 +10,7 @@ const Animasyonlu_Resim = () => {
       transition={{ duration: 1 }}
     >
       <img 
-        src="/img/resim-1.jpg"
+        src="./img/resim-1.jpg"
         alt="Animasyonlu_Resim"
         style={{ width: '300px', height: '200px' }}
       />

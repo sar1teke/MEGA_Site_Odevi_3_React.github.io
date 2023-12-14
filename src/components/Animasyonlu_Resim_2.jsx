@@ -11,7 +11,7 @@ const Animasyonlu_Resim_2 = () => {
     >
       <img
         className='img-1'
-        src="/img/Galatasaray_Sports_Club_Logo.png"
+        src="./img/Galatasaray_Sports_Club_Logo.png"
         alt="Animasyonlu_Resim_2"
         style={{ width: '250px', height: '300px'}}
       />

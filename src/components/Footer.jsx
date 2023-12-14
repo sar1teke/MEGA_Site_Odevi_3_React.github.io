@@ -8,7 +8,7 @@ const Footer_1 = () => {
       <a href="https://www.linkedin.com/in/ismail-sariteke-501357226/">
         <img
           className="linkedln-logo"
-          src="public/img/linkedln_logo_2.png"
+          src="./public/img/linkedln_logo_2.png"
           alt="Linkedn"
           title="Linkedln Hesabım"
         />
@@ -16,7 +16,7 @@ const Footer_1 = () => {
       <a href="https://github.com/sar1teke">
         <img
           className="linkedln-logo"
-          src="public/img/github_logo.webp"
+          src="./public/img/github_logo.webp"
           alt="Github"
           title="Github Hesabım"
         />
@@ -24,7 +24,7 @@ const Footer_1 = () => {
       <a href="mailto:ismailsariteke784@gmail.com">
         <img
           className="linkedln-logo"
-          src="public/img/gmail_logo.png"
+          src="./public/img/gmail_logo.png"
           alt="Mail"
           title="Bana Mail Gönder :)"
         />
