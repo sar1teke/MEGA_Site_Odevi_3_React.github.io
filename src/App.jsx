@@ -58,11 +58,11 @@ import Footer from "./components/Footer";
     <div className="genel-metin">4 Mayıs 2003 tarihinde Ağrı'da doğdum orada 4-5 yıl kadar kaldıktan sonra İzmir'in
     Tire ilçesine yerleştim İzmir'in Tire ilçesinde ilk öğretimin ilk 4 yılını 4 Eylül
     ilköğretim okulunda tamamladım daha sonrasında Denizli'ye taşındım burada Ayşe
-    Mürüvvet Başar İmam Hatip ortaokulunda ortaokul eğitimi tamamladım sonrasında ise
+    Mürüvvet Başar İmam Hatip ortaokulunda ortaokul eğitimimi tamamladım sonrasında ise
     Ahmet Yesevi Anadolu İmam Hatip lisesi'nde lise eğitimimi tamamladım daha sonrasında
     ise YKS sınavına girerek Konya Selçuklu'da bulunan Selçuk Üniversitesi teknoloji
     fakültesi bilgisayar mühendisliği bölümüne yerleştim bu bölümde 2021'den beri eğitim
-    almaktayım okuduğunuz için teşekkür ederim.
+    almaktayım...
     </div>
 
     <div className="genel-metin-2">Biraz da bilgisayar mühendisliği hakkındaki düşüncelerimi anlatmak istiyorum bilgisayar
@@ -78,7 +78,7 @@ import Footer from "./components/Footer";
     de beslemekte makine mühendisliğinde elektrik mühendisliği inşaat mühendisliğinide yani bilgisayar
     mühendisliği sayesinde diğer bütün bilimler diğer bütün mühendislikler artık daha rahat daha stabil
     çalışabilmekte çünkü bilgisayarın önünde bir engel yok bilgisayarın duracağı bir nokta yok yazılımın
-    bitti diyebileceğimiz bir noktası yok yani kısaca şunu söylemek istiyorum artık yazılım bilimin en
+    bitti diyebileceğimiz bir noktası yok, yani kısaca şunu söylemek istiyorum artık yazılım bilimin en
     temel parçası. 
     Teşekkürler.
     </div>
