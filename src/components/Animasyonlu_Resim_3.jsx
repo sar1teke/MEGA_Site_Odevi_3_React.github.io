@@ -15,14 +15,14 @@ const Animasyonlu_Resim_3 = () => {
       <div className="content">
         <p>
           Öncelikle merhabalar ben Selçuk Üniversitesi bilgisayar
-    mühendisliği  sınıf öğrencisi İsmail sarıteke öncelikle bu alanın neden seçtiğimi ve
+    mühendisliği 3.sınıf öğrencisi İsmail sarıteke öncelikle bu alanın neden seçtiğimi ve
     bu alanda ne yapmak istediğimden kısaca bahsedeyim bilgisayarlar hep ilgimi çekmiştir
     daha doğrusu teknolojinin bu kadar hızlı gelişmesi teknolojinin bu denli durdurulamaması
     hep ilgimi çekmiştir hepimizin bildiği gibi teknolojinin bir sonu yok bu da benim ilgimi
     çeken asıl nokta yani gittiği yere kadar gidiyor ben de onunla beraber gideyim nereye kadar
     gidebilirim diye düşündüm o yüzden bu alanı seçtim bu alanda çalışmaya başladığımdan itibaren
     özellikle bilgisayar mühendisliğine başlığımdan itibaren çeşitli dalları deneyimledim bunlardan
-    kısaca bahsedeyim siber güvenlik, mobil programlama,   veri işleme, görüntü işleme hepsiyle
+    kısaca bahsedeyim siber güvenlik, mobil programlama, veri işleme, görüntü işleme hepsiyle
     tek tek ilgilendim ama şimdi Mega yazılım akademisinde katkılarıyla web alanında çalışıyorum
     bu sitede bunun bir örneğidir aşağı kısımda da genel biyografimden bahsedeceğim.
         </p>
