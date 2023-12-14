@@ -6,7 +6,7 @@
   }
   
   .parallax-image {
-    background-image: url('./public/img/manzara.png');
+    background-image: url('./img/manzara.png');
     background-size: cover;
     background-position: center;
     height: 100%;
