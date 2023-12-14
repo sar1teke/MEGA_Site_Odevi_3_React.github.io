@@ -1,0 +1,23 @@
+/* ScrollableImageWithMotion.css */
+.scrollable-image-container {
+    position: relative;
+    height: 500px; /* veya istediğiniz bir yükseklik */
+    overflow: hidden;
+  }
+  
+  .parallax-image {
+    background-image: url('./img/manzara.png');
+    background-size: cover;
+    background-position: center;
+    height: 100%;
+    transform: translate3d(0, 0, 0); /* GPU hızlandırmalı animasyon için */
+  }
+  
+  .content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+  }
+  
