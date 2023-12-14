@@ -55,43 +55,32 @@ import Footer from "./components/Footer";
       <Animasyonlu_Resim />
     </div>
 
-    <div className="genel-metin">Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-    Cum, accusamus nesciunt excepturi praesentium dolor eaque ad rem voluptates aperiam
-    obcaecati, perspiciatis in. Ipsum quam obcaecati autem voluptatibus explicabo eius
-    maiores?Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam, quaerat
-    vitae. Cumque deleniti, eveniet sit eos doloribus maiores dolores magni numquam
-    expedita totam voluptatibus possimus a? Nisi amet sequi Lorem ipsum, dolor sit
-    amet consectetur adipisicing elit. Saepe eos debitis, accusantium molestiae optio
-    ea placeat nostrum quo sequi quos voluptate aliquam, ipsa perspiciatis nemo culpa
-    perferendis ratione ipsam. Facere.</div>
+    <div className="genel-metin">4 Mayıs 2003 tarihinde Ağrı'da doğdum orada 4-5 yıl kadar kaldıktan sonra İzmir'in
+    Tire ilçesine yerleştim İzmir'in Tire ilçesinde ilk öğretimin ilk 4 yılını 4 Eylül
+    ilköğretim okulunda tamamladım daha sonrasında Denizli'ye taşındım burada Ayşe
+    Mürüvvet Başar İmam Hatip ortaokulunda ortaokul eğitimi tamamladım sonrasında ise
+    Ahmet Yesevi Anadolu İmam Hatip lisesi'nde lise eğitimimi tamamladım daha sonrasında
+    ise YKS sınavına girerek Konya Selçuklu'da bulunan Selçuk Üniversitesi teknoloji
+    fakültesi bilgisayar mühendisliği bölümüne yerleştim bu bölümde 2021'den beri eğitim
+    almaktayım okuduğunuz için teşekkür ederim.
+    </div>
 
-    <div className="genel-metin-2">Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-    Cum, accusamus nesciunt excepturi praesentium dolor eaque ad rem voluptates aperiam
-    obcaecati, perspiciatis in. Ipsum quam obcaecati autem voluptatibus explicabo eius
-    maiores?Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam, quaerat
-    vitae. Cumque deleniti, eveniet sit eos doloribus maiores dolores magni numquam
-    expedita totam voluptatibus possimus a? Nisi amet sequi Lorem ipsum, dolor sit
-    amet consectetur adipisicing elit. Saepe eos debitis, accusantium molestiae optio
-    ea placeat nostrum quo sequi quos voluptate aliquam, ipsa perspiciatis nemo culpa
-    perferendis ratione ipsam. Facere.
-    Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-    Cum, accusamus nesciunt excepturi praesentium dolor eaque ad rem voluptates aperiam
-    obcaecati, perspiciatis in. Ipsum quam obcaecati autem voluptatibus explicabo eius
-    maiores?Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam, quaerat
-    vitae. Cumque deleniti, eveniet sit eos doloribus maiores dolores magni numquam
-    expedita totam voluptatibus possimus a? Nisi amet sequi Lorem ipsum, dolor sit
-    amet consectetur adipisicing elit. Saepe eos debitis, accusantium molestiae optio
-    ea placeat nostrum quo sequi quos voluptate aliquam, ipsa perspiciatis nemo culpa
-    perferendis ratione ipsam. Facere.
-    Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-    Cum, accusamus nesciunt excepturi praesentium dolor eaque ad rem voluptates aperiam
-    obcaecati, perspiciatis in. Ipsum quam obcaecati autem voluptatibus explicabo eius
-    maiores?Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam, quaerat
-    vitae. Cumque deleniti, eveniet sit eos doloribus maiores dolores magni numquam
-    expedita totam voluptatibus possimus a? Nisi amet sequi Lorem ipsum, dolor sit
-    amet consectetur adipisicing elit. Saepe eos debitis, accusantium molestiae optio
-    ea placeat nostrum quo sequi quos voluptate aliquam, ipsa perspiciatis nemo culpa
-    perferendis ratione ipsam. Facere.
+    <div className="genel-metin-2">Biraz da bilgisayar mühendisliği hakkındaki düşüncelerimi anlatmak istiyorum bilgisayar
+    mühendisliğine tam anlamıyla bir mühendislik denilemez bence zaten yurt dışında da
+    bilgisayar bilimleri olarak geçmekte bence de bilgisayar bir bilim yani bilgisayarın
+    işleyişi bilgisayarın temel yapısı bilgisayarın donanımı bunlar Bir bilimin ürünü bilgisayar
+    kendi başına sadece 1 ve 0'dan anlayan düz bir makine ama bizim ona yüklediklerimiz 
+    Bizim ona anlattıklarımız yani kısaca algoritmalarımız bilgisayarı bilgisayar yapan şeydir 
+    neden bilgisayarın üzerinde bu kadar duruyorum çünkü bilgisayar olmasaydı daha doğrusu bilgisayar
+    teknolojisi bugün bu noktaya gelmeseydi şu an birçok şey bizim gördüğümüzden bizim yaşadığımızda
+    çok daha farklı olurdu örnek olarak tıpın şu an geldiği nokta veya gelecekteki geleceği
+    noktanın temelinde bilgisayar bilimleri yatmakta Bilgisayar bilimleri diğer bütün mühendisleri
+    de beslemekte makine mühendisliğinde elektrik mühendisliği inşaat mühendisliğinide yani bilgisayar
+    mühendisliği sayesinde diğer bütün bilimler diğer bütün mühendislikler artık daha rahat daha stabil
+    çalışabilmekte çünkü bilgisayarın önünde bir engel yok bilgisayarın duracağı bir nokta yok yazılımın
+    bitti diyebileceğimiz bir noktası yok yani kısaca şunu söylemek istiyorum artık yazılım bilimin en
+    temel parçası. 
+    Teşekkürler.
     </div>
       <br />
     <div className="Footer-cls">
